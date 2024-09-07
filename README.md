@@ -1,7 +1,7 @@
 # LGCDA
 We propose a new computational model based on fusion of local and global features to predict circRNA-disease associations. This is the implementation of LGCDA:
 ```
-LGCDA: Predicting CircRNA-Disease Association Based on Fusion of Local and Global Features.
+W Lan, C Li, Q Chen, N Yu, Y Pan, Y Zheng, YPP Chen. LGCDA: Predicting CircRNA-Disease Association Based on Fusion of Local and Global Features. IEEE/ACM Transactions on Computational Biology and Bioinformatics
 
 ```
 
